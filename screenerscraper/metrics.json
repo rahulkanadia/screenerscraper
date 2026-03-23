@@ -1,0 +1,452 @@
+[
+    {
+        "Section": "Balance Sheet",
+        "Metric": "Borrowing",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Balance Sheet",
+        "Metric": "CWIP",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Balance Sheet",
+        "Metric": "Deposits",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Balance Sheet",
+        "Metric": "Equity Capital",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Balance Sheet",
+        "Metric": "Investments",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Balance Sheet",
+        "Metric": "Reserves",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Balance Sheet",
+        "Metric": "Total Assets",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Balance Sheet",
+        "Metric": "Total Liabilities",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Cash Flows",
+        "Metric": "Net Cash Flow",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Compounded Profit Growth",
+        "Metric": "10 Years:",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Compounded Profit Growth",
+        "Metric": "3 Years:",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Compounded Profit Growth",
+        "Metric": "5 Years:",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Compounded Profit Growth",
+        "Metric": "TTM:",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Compounded Sales Growth",
+        "Metric": "10 Years:",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Compounded Sales Growth",
+        "Metric": "3 Years:",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Compounded Sales Growth",
+        "Metric": "5 Years:",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Compounded Sales Growth",
+        "Metric": "TTM:",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Half Yearly Results",
+        "Metric": "Depreciation",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Half Yearly Results",
+        "Metric": "EPS in Rs",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Half Yearly Results",
+        "Metric": "Financing Margin %",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Half Yearly Results",
+        "Metric": "Financing Profit",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Half Yearly Results",
+        "Metric": "Gross NPA %",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Half Yearly Results",
+        "Metric": "Interest",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Half Yearly Results",
+        "Metric": "Net NPA %",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Half Yearly Results",
+        "Metric": "OPM %",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Half Yearly Results",
+        "Metric": "Operating Profit",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Half Yearly Results",
+        "Metric": "Profit before tax",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Half Yearly Results",
+        "Metric": "Raw PDF",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Half Yearly Results",
+        "Metric": "Tax %",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Profit & Loss",
+        "Metric": "Depreciation",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Profit & Loss",
+        "Metric": "Dividend Payout %",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Profit & Loss",
+        "Metric": "EPS in Rs",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Profit & Loss",
+        "Metric": "Financing Margin %",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Profit & Loss",
+        "Metric": "Financing Profit",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Profit & Loss",
+        "Metric": "Interest",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Profit & Loss",
+        "Metric": "OPM %",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Profit & Loss",
+        "Metric": "Operating Profit",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Profit & Loss",
+        "Metric": "Profit before tax",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Profit & Loss",
+        "Metric": "Tax %",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Quarterly Results",
+        "Metric": "Depreciation",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Quarterly Results",
+        "Metric": "EPS in Rs",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Quarterly Results",
+        "Metric": "Financing Margin %",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Quarterly Results",
+        "Metric": "Financing Profit",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Quarterly Results",
+        "Metric": "Gross NPA %",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Quarterly Results",
+        "Metric": "Interest",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Quarterly Results",
+        "Metric": "Net NPA %",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Quarterly Results",
+        "Metric": "OPM %",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Quarterly Results",
+        "Metric": "Operating Profit",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Quarterly Results",
+        "Metric": "Profit before tax",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Quarterly Results",
+        "Metric": "Raw PDF",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Quarterly Results",
+        "Metric": "Tax %",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Ratios",
+        "Metric": "Cash Conversion Cycle",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Ratios",
+        "Metric": "Days Payable",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Ratios",
+        "Metric": "Debtor Days",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Ratios",
+        "Metric": "Inventory Days",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Ratios",
+        "Metric": "ROCE %",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Ratios",
+        "Metric": "ROE %",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Ratios",
+        "Metric": "Working Capital Days",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Return on Equity",
+        "Metric": "10 Years:",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Return on Equity",
+        "Metric": "3 Years:",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Return on Equity",
+        "Metric": "5 Years:",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Return on Equity",
+        "Metric": "Last Year:",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Stock Price CAGR",
+        "Metric": "1 Year:",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Stock Price CAGR",
+        "Metric": "10 Years:",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Stock Price CAGR",
+        "Metric": "3 Years:",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Stock Price CAGR",
+        "Metric": "5 Years:",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Top Info",
+        "Metric": "Book Value",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Top Info",
+        "Metric": "Current Price",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Top Info",
+        "Metric": "Dividend Yield",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Top Info",
+        "Metric": "Face Value",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Top Info",
+        "Metric": "High / Low",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Top Info",
+        "Metric": "Market Cap",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Top Info",
+        "Metric": "ROCE",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Top Info",
+        "Metric": "ROE",
+        "Source": "HTML",
+        "Active": true
+    },
+    {
+        "Section": "Top Info",
+        "Metric": "Stock P/E",
+        "Source": "HTML",
+        "Active": true
+    }
+]

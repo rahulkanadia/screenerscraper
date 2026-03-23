@@ -1,0 +1,22 @@
+# 1. Downloaded Data Folders (Crucial: Do not push massive raw data)
+
+# 3. Temporary Files
+*.csv
+*.xls
+*.xlsx
+*.tmp
+*.html
+
+# 4. Standard Python system files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.cfg
+
+# 5. Virtual Environments
+venv/
+env/
+Lib/
+Scripts/
+.env

@@ -1,0 +1,1339 @@
+[
+    {
+        "Broad Sector": "Commodities",
+        "Sector": "Metals & Mining",
+        "Broad Industry": "Minerals & Mining",
+        "Industry": "Industrial Minerals",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Financial Services",
+        "Sector": "Financial Services",
+        "Broad Industry": "Capital Markets",
+        "Industry": "Other Capital Market related Services",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Financial Services",
+        "Sector": "Financial Services",
+        "Broad Industry": "Capital Markets",
+        "Industry": "Stockbroking & Allied",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Information Technology",
+        "Sector": "Information Technology",
+        "Broad Industry": "IT - Software",
+        "Industry": "Computers - Software & Consulting",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Diversified",
+        "Sector": "Diversified",
+        "Broad Industry": "Diversified",
+        "Industry": "Diversified",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Financial Services",
+        "Sector": "Financial Services",
+        "Broad Industry": "Finance",
+        "Industry": "Investment Company",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Healthcare",
+        "Sector": "Healthcare",
+        "Broad Industry": "Pharmaceuticals & Biotechnology",
+        "Industry": "Pharmaceuticals",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Commodities",
+        "Sector": "Chemicals",
+        "Broad Industry": "Chemicals & Petrochemicals",
+        "Industry": "Commodity Chemicals",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Commodities",
+        "Sector": "Metals & Mining",
+        "Broad Industry": "Non - Ferrous Metals",
+        "Industry": "Precious Metals",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Consumer Services",
+        "Broad Industry": "Leisure Services",
+        "Industry": "Hotels & Resorts",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Industrials",
+        "Sector": "Capital Goods",
+        "Broad Industry": "Industrial Manufacturing",
+        "Industry": "Industrial Products",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Commodities",
+        "Sector": "Chemicals",
+        "Broad Industry": "Chemicals & Petrochemicals",
+        "Industry": "Industrial Gases",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Commodities",
+        "Sector": "Metals & Mining",
+        "Broad Industry": "Ferrous Metals",
+        "Industry": "Sponge Iron",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Commodities",
+        "Sector": "Chemicals",
+        "Broad Industry": "Chemicals & Petrochemicals",
+        "Industry": "Specialty Chemicals",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Financial Services",
+        "Sector": "Financial Services",
+        "Broad Industry": "Finance",
+        "Industry": "Non Banking Financial Company (NBFC)",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Services",
+        "Sector": "Services",
+        "Broad Industry": "Commercial Services & Supplies",
+        "Industry": "Trading & Distributors",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Fast Moving Consumer Goods",
+        "Sector": "Fast Moving Consumer Goods",
+        "Broad Industry": "Agricultural Food & other Products",
+        "Industry": "Tea & Coffee",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Textiles",
+        "Broad Industry": "Textiles & Apparels",
+        "Industry": "Other Textile Products",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Automobile and Auto Components",
+        "Broad Industry": "Auto Components",
+        "Industry": "Auto Components & Equipments",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Consumer Services",
+        "Broad Industry": "Leisure Services",
+        "Industry": "Tour, Travel Related Services",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Services",
+        "Sector": "Services",
+        "Broad Industry": "Commercial Services & Supplies",
+        "Industry": "Diversified Commercial Services",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Realty",
+        "Broad Industry": "Realty",
+        "Industry": "Residential, Commercial Projects",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Fast Moving Consumer Goods",
+        "Sector": "Fast Moving Consumer Goods",
+        "Broad Industry": "Agricultural Food & other Products",
+        "Industry": "Sugar",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Commodities",
+        "Sector": "Construction Materials",
+        "Broad Industry": "Cement & Cement Products",
+        "Industry": "Cement & Cement Products",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Telecommunication",
+        "Sector": "Telecommunication",
+        "Broad Industry": "Telecom -  Equipment & Accessories",
+        "Industry": "Telecom -  Equipment & Accessories",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Commodities",
+        "Sector": "Forest Materials",
+        "Broad Industry": "Paper, Forest & Jute Products",
+        "Industry": "Paper & Paper Products",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Industrials",
+        "Sector": "Capital Goods",
+        "Broad Industry": "Industrial Products",
+        "Industry": "Iron & Steel Products",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Consumer Durables",
+        "Broad Industry": "Consumer Durables",
+        "Industry": "Consumer Electronics",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Information Technology",
+        "Sector": "Information Technology",
+        "Broad Industry": "IT - Software",
+        "Industry": "Software Products",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Consumer Durables",
+        "Broad Industry": "Consumer Durables",
+        "Industry": "Gems, Jewellery And Watches",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Industrials",
+        "Sector": "Capital Goods",
+        "Broad Industry": "Industrial Products",
+        "Industry": "Packaging",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Financial Services",
+        "Sector": "Financial Services",
+        "Broad Industry": "Finance",
+        "Industry": "Other Financial Services",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Fast Moving Consumer Goods",
+        "Sector": "Fast Moving Consumer Goods",
+        "Broad Industry": "Food Products",
+        "Industry": "Other Food Products",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Services",
+        "Sector": "Services",
+        "Broad Industry": "Commercial Services & Supplies",
+        "Industry": "Consulting Services",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Industrials",
+        "Sector": "Capital Goods",
+        "Broad Industry": "Industrial Products",
+        "Industry": "Other Industrial Products",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Services",
+        "Sector": "Services",
+        "Broad Industry": "Transport Services",
+        "Industry": "Shipping",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Commodities",
+        "Sector": "Construction Materials",
+        "Broad Industry": "Other Construction Materials",
+        "Industry": "Other Construction Materials",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Industrials",
+        "Sector": "Capital Goods",
+        "Broad Industry": "Industrial Products",
+        "Industry": "Electrodes & Refractories",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Consumer Durables",
+        "Broad Industry": "Consumer Durables",
+        "Industry": "Household Appliances",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Information Technology",
+        "Sector": "Information Technology",
+        "Broad Industry": "IT - Services",
+        "Industry": "IT Enabled Services",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Utilities",
+        "Sector": "Power",
+        "Broad Industry": "Power",
+        "Industry": "Power Generation",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Media, Entertainment & Publication",
+        "Broad Industry": "Entertainment",
+        "Industry": "Film Production, Distribution & Exhibition",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Industrials",
+        "Sector": "Capital Goods",
+        "Broad Industry": "Electrical Equipment",
+        "Industry": "Other Electrical Equipment",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Industrials",
+        "Sector": "Capital Goods",
+        "Broad Industry": "Electrical Equipment",
+        "Industry": "Heavy Electrical Equipment",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Fast Moving Consumer Goods",
+        "Sector": "Fast Moving Consumer Goods",
+        "Broad Industry": "Household Products",
+        "Industry": "Household Products",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Industrials",
+        "Sector": "Construction",
+        "Broad Industry": "Construction",
+        "Industry": "Civil Construction",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Services",
+        "Sector": "Services",
+        "Broad Industry": "Transport Services",
+        "Industry": "Logistics Solution Provider",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Industrials",
+        "Sector": "Capital Goods",
+        "Broad Industry": "Industrial Products",
+        "Industry": "Castings & Forgings",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Services",
+        "Sector": "Services",
+        "Broad Industry": "Commercial Services & Supplies",
+        "Industry": "Business Process Outsourcing (BPO)/ Knowledge Process Outsourcing (KPO)",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Industrials",
+        "Sector": "Capital Goods",
+        "Broad Industry": "Agricultural, Commercial & Construction Vehicles",
+        "Industry": "Construction Vehicles",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Commodities",
+        "Sector": "Metals & Mining",
+        "Broad Industry": "Metals & Minerals Trading",
+        "Industry": "Trading - Metals",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Commodities",
+        "Sector": "Metals & Mining",
+        "Broad Industry": "Non - Ferrous Metals",
+        "Industry": "Aluminium",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Consumer Services",
+        "Broad Industry": "Leisure Services",
+        "Industry": "Restaurants",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Fast Moving Consumer Goods",
+        "Sector": "Fast Moving Consumer Goods",
+        "Broad Industry": "Food Products",
+        "Industry": "Packaged Foods",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Commodities",
+        "Sector": "Chemicals",
+        "Broad Industry": "Chemicals & Petrochemicals",
+        "Industry": "Explosives",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Commodities",
+        "Sector": "Chemicals",
+        "Broad Industry": "Fertilizers & Agrochemicals",
+        "Industry": "Fertilizers",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Commodities",
+        "Sector": "Chemicals",
+        "Broad Industry": "Chemicals & Petrochemicals",
+        "Industry": "Dyes And Pigments",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Commodities",
+        "Sector": "Chemicals",
+        "Broad Industry": "Chemicals & Petrochemicals",
+        "Industry": "Trading - Chemicals",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Commodities",
+        "Sector": "Chemicals",
+        "Broad Industry": "Chemicals & Petrochemicals",
+        "Industry": "Petrochemicals",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Fast Moving Consumer Goods",
+        "Sector": "Fast Moving Consumer Goods",
+        "Broad Industry": "Beverages",
+        "Industry": "Breweries & Distilleries",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Fast Moving Consumer Goods",
+        "Sector": "Fast Moving Consumer Goods",
+        "Broad Industry": "Agricultural Food & other Products",
+        "Industry": "Other Agricultural Products",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Fast Moving Consumer Goods",
+        "Sector": "Fast Moving Consumer Goods",
+        "Broad Industry": "Food Products",
+        "Industry": "Dairy Products",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Fast Moving Consumer Goods",
+        "Sector": "Fast Moving Consumer Goods",
+        "Broad Industry": "Beverages",
+        "Industry": "Other Beverages",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Information Technology",
+        "Sector": "Information Technology",
+        "Broad Industry": "IT - Hardware",
+        "Industry": "Computers Hardware & Equipments",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Textiles",
+        "Broad Industry": "Textiles & Apparels",
+        "Industry": "Garments & Apparels",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Fast Moving Consumer Goods",
+        "Sector": "Fast Moving Consumer Goods",
+        "Broad Industry": "Personal Products",
+        "Industry": "Personal Care",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Services",
+        "Sector": "Services",
+        "Broad Industry": "Transport Services",
+        "Industry": "Road Transport",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Consumer Durables",
+        "Broad Industry": "Consumer Durables",
+        "Industry": "Houseware",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Automobile and Auto Components",
+        "Broad Industry": "Auto Components",
+        "Industry": "Tyres & Rubber Products",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Consumer Services",
+        "Broad Industry": "Other Consumer Services",
+        "Industry": "Education",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Industrials",
+        "Sector": "Capital Goods",
+        "Broad Industry": "Industrial Products",
+        "Industry": "Aluminium, Copper & Zinc Products",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Realty",
+        "Broad Industry": "Realty",
+        "Industry": "Real Estate related services",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Media, Entertainment & Publication",
+        "Broad Industry": "Entertainment",
+        "Industry": "TV Broadcasting & Software Production",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Industrials",
+        "Sector": "Capital Goods",
+        "Broad Industry": "Industrial Products",
+        "Industry": "Plastic Products - Industrial",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Fast Moving Consumer Goods",
+        "Sector": "Fast Moving Consumer Goods",
+        "Broad Industry": "Cigarettes & Tobacco Products",
+        "Industry": "Cigarettes & Tobacco Products",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Telecommunication",
+        "Sector": "Telecommunication",
+        "Broad Industry": "Telecom - Services",
+        "Industry": "Telecom - Cellular & Fixed line services",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Financial Services",
+        "Sector": "Financial Services",
+        "Broad Industry": "Financial Technology (Fintech)",
+        "Industry": "Financial Technology (Fintech)",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Healthcare",
+        "Sector": "Healthcare",
+        "Broad Industry": "Pharmaceuticals & Biotechnology",
+        "Industry": "Biotechnology",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Financial Services",
+        "Sector": "Financial Services",
+        "Broad Industry": "Finance",
+        "Industry": "Housing Finance Company",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Telecommunication",
+        "Sector": "Telecommunication",
+        "Broad Industry": "Telecom - Services",
+        "Industry": "Other Telecom Services",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Commodities",
+        "Sector": "Metals & Mining",
+        "Broad Industry": "Ferrous Metals",
+        "Industry": "Iron & Steel",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Commodities",
+        "Sector": "Metals & Mining",
+        "Broad Industry": "Non - Ferrous Metals",
+        "Industry": "Copper",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Media, Entertainment & Publication",
+        "Broad Industry": "Entertainment",
+        "Industry": "Media & Entertainment",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Commodities",
+        "Sector": "Metals & Mining",
+        "Broad Industry": "Ferrous Metals",
+        "Industry": "Ferro & Silica Manganese",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Commodities",
+        "Sector": "Metals & Mining",
+        "Broad Industry": "Non - Ferrous Metals",
+        "Industry": "Zinc",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Energy",
+        "Sector": "Oil, Gas & Consumable Fuels",
+        "Broad Industry": "Oil",
+        "Industry": "Oil Exploration & Production",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Energy",
+        "Sector": "Oil, Gas & Consumable Fuels",
+        "Broad Industry": "Consumable Fuels",
+        "Industry": "Coal",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Healthcare",
+        "Sector": "Healthcare",
+        "Broad Industry": "Healthcare Services",
+        "Industry": "Healthcare Service Provider",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Consumer Durables",
+        "Broad Industry": "Consumer Durables",
+        "Industry": "Footwear",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Fast Moving Consumer Goods",
+        "Sector": "Fast Moving Consumer Goods",
+        "Broad Industry": "Agricultural Food & other Products",
+        "Industry": "Edible Oil",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Consumer Durables",
+        "Broad Industry": "Consumer Durables",
+        "Industry": "Ceramics",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Consumer Durables",
+        "Broad Industry": "Consumer Durables",
+        "Industry": "Plywood Boards/ Laminates",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Commodities",
+        "Sector": "Forest Materials",
+        "Broad Industry": "Paper, Forest & Jute Products",
+        "Industry": "Forest Products",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Consumer Services",
+        "Broad Industry": "Other Consumer Services",
+        "Industry": "E-Learning",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Fast Moving Consumer Goods",
+        "Sector": "Fast Moving Consumer Goods",
+        "Broad Industry": "Food Products",
+        "Industry": "Seafood",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Fast Moving Consumer Goods",
+        "Sector": "Fast Moving Consumer Goods",
+        "Broad Industry": "Food Products",
+        "Industry": "Animal Feed",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Fast Moving Consumer Goods",
+        "Sector": "Fast Moving Consumer Goods",
+        "Broad Industry": "Food Products",
+        "Industry": "Meat Products including Poultry",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Services",
+        "Sector": "Services",
+        "Broad Industry": "Transport Infrastructure",
+        "Industry": "Port & Port services",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Consumer Services",
+        "Broad Industry": "Retailing",
+        "Industry": "Internet & Catalogue Retail",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Textiles",
+        "Broad Industry": "Textiles & Apparels",
+        "Industry": "Trading - Textile Products",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Industrials",
+        "Sector": "Capital Goods",
+        "Broad Industry": "Aerospace & Defense",
+        "Industry": "Aerospace & Defense",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Energy",
+        "Sector": "Oil, Gas & Consumable Fuels",
+        "Broad Industry": "Petroleum Products",
+        "Industry": "Refineries & Marketing",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Consumer Durables",
+        "Broad Industry": "Consumer Durables",
+        "Industry": "Leather And Leather Products",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Consumer Durables",
+        "Broad Industry": "Consumer Durables",
+        "Industry": "Granites & Marbles",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Consumer Durables",
+        "Broad Industry": "Consumer Durables",
+        "Industry": "Diversified consumer products",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Healthcare",
+        "Sector": "Healthcare",
+        "Broad Industry": "Healthcare Services",
+        "Industry": "Hospital",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Commodities",
+        "Sector": "Chemicals",
+        "Broad Industry": "Fertilizers & Agrochemicals",
+        "Industry": "Pesticides & Agrochemicals",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Industrials",
+        "Sector": "Capital Goods",
+        "Broad Industry": "Industrial Products",
+        "Industry": "Abrasives & Bearings",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Commodities",
+        "Sector": "Forest Materials",
+        "Broad Industry": "Paper, Forest & Jute Products",
+        "Industry": "Jute & Jute Products",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Consumer Durables",
+        "Broad Industry": "Consumer Durables",
+        "Industry": "Leisure Products",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Media, Entertainment & Publication",
+        "Broad Industry": "Media",
+        "Industry": "Advertising & Media Agencies",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Consumer Services",
+        "Broad Industry": "Leisure Services",
+        "Industry": "Amusement Parks/ Other Recreation",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Industrials",
+        "Sector": "Capital Goods",
+        "Broad Industry": "Industrial Products",
+        "Industry": "Rubber",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Consumer Durables",
+        "Broad Industry": "Consumer Durables",
+        "Industry": "Plastic Products - Consumer",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Media, Entertainment & Publication",
+        "Broad Industry": "Printing & Publication",
+        "Industry": "Printing & Publication",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Healthcare",
+        "Sector": "Healthcare",
+        "Broad Industry": "Healthcare Services",
+        "Industry": "Healthcare Research, Analytics & Technology",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Industrials",
+        "Sector": "Capital Goods",
+        "Broad Industry": "Industrial Manufacturing",
+        "Industry": "Ship Building & Allied Services",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Healthcare",
+        "Sector": "Healthcare",
+        "Broad Industry": "Healthcare Equipment & Supplies",
+        "Industry": "Medical Equipment & Supplies",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Utilities",
+        "Sector": "Utilities",
+        "Broad Industry": "Other Utilities",
+        "Industry": "Waste Management",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Media, Entertainment & Publication",
+        "Broad Industry": "Media",
+        "Industry": "Print Media",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Industrials",
+        "Sector": "Capital Goods",
+        "Broad Industry": "Industrial Products",
+        "Industry": "Glass - Industrial",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Financial Services",
+        "Sector": "Financial Services",
+        "Broad Industry": "Finance",
+        "Industry": "Financial Institution",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Automobile and Auto Components",
+        "Broad Industry": "Automobiles",
+        "Industry": "2/3 Wheelers",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Automobile and Auto Components",
+        "Broad Industry": "Automobiles",
+        "Industry": "Auto Dealer",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Energy",
+        "Sector": "Oil, Gas & Consumable Fuels",
+        "Broad Industry": "Oil",
+        "Industry": "Oil Equipment & Services",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Automobile and Auto Components",
+        "Broad Industry": "Automobiles",
+        "Industry": "Passenger Cars & Utility Vehicles",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Financial Services",
+        "Sector": "Financial Services",
+        "Broad Industry": "Capital Markets",
+        "Industry": "Asset Management Company",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Financial Services",
+        "Sector": "Financial Services",
+        "Broad Industry": "Finance",
+        "Industry": "Holding Company",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Consumer Durables",
+        "Broad Industry": "Consumer Durables",
+        "Industry": "Furniture, Home Furnishing",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Consumer Services",
+        "Broad Industry": "Retailing",
+        "Industry": "Diversified Retail",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Utilities",
+        "Sector": "Power",
+        "Broad Industry": "Power",
+        "Industry": "Power Distribution",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Industrials",
+        "Sector": "Capital Goods",
+        "Broad Industry": "Industrial Products",
+        "Industry": "Cables - Electricals",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Consumer Services",
+        "Broad Industry": "Retailing",
+        "Industry": "Distributors",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Services",
+        "Sector": "Services",
+        "Broad Industry": "Commercial Services & Supplies",
+        "Industry": "Data Processing Services",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Utilities",
+        "Sector": "Utilities",
+        "Broad Industry": "Other Utilities",
+        "Industry": "Other Utilities",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Fast Moving Consumer Goods",
+        "Sector": "Fast Moving Consumer Goods",
+        "Broad Industry": "Household Products",
+        "Industry": "Stationary",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Media, Entertainment & Publication",
+        "Broad Industry": "Media",
+        "Industry": "Electronic Media",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Services",
+        "Sector": "Services",
+        "Broad Industry": "Transport Services",
+        "Industry": "Airline",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Commodities",
+        "Sector": "Metals & Mining",
+        "Broad Industry": "Metals & Minerals Trading",
+        "Industry": "Trading - Minerals",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Consumer Services",
+        "Broad Industry": "Retailing",
+        "Industry": "Speciality Retail",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Media, Entertainment & Publication",
+        "Broad Industry": "Entertainment",
+        "Industry": "Digital Entertainment",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Consumer Services",
+        "Broad Industry": "Retailing",
+        "Industry": "E-Retail/ E-Commerce",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Energy",
+        "Sector": "Oil, Gas & Consumable Fuels",
+        "Broad Industry": "Gas",
+        "Industry": "Gas Transmission/Marketing",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Telecommunication",
+        "Sector": "Telecommunication",
+        "Broad Industry": "Telecom - Services",
+        "Industry": "Telecom - Infrastructure",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Financial Services",
+        "Sector": "Financial Services",
+        "Broad Industry": "Capital Markets",
+        "Industry": "Financial Products Distributor",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Consumer Services",
+        "Broad Industry": "Other Consumer Services",
+        "Industry": "Other Consumer Services",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Consumer Durables",
+        "Broad Industry": "Consumer Durables",
+        "Industry": "Paints",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Consumer Services",
+        "Broad Industry": "Other Consumer Services",
+        "Industry": "Food Storage Facilities",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Energy",
+        "Sector": "Oil, Gas & Consumable Fuels",
+        "Broad Industry": "Petroleum Products",
+        "Industry": "Lubricants",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Utilities",
+        "Sector": "Utilities",
+        "Broad Industry": "Other Utilities",
+        "Industry": "Multi Utilities",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Media, Entertainment & Publication",
+        "Broad Industry": "Media",
+        "Industry": "Web based media and service",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Realty",
+        "Broad Industry": "Realty",
+        "Industry": "Real Estate Investment Trusts (REITs)",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Energy",
+        "Sector": "Oil, Gas & Consumable Fuels",
+        "Broad Industry": "Oil",
+        "Industry": "Oil Storage & Transportation",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Financial Services",
+        "Sector": "Financial Services",
+        "Broad Industry": "Capital Markets",
+        "Industry": "Depositories, Clearing Houses and Other Intermediaries",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Energy",
+        "Sector": "Oil, Gas & Consumable Fuels",
+        "Broad Industry": "Oil",
+        "Industry": "Offshore Support Solution Drilling",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Utilities",
+        "Sector": "Power",
+        "Broad Industry": "Power",
+        "Industry": "Integrated Power Utilities",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Energy",
+        "Sector": "Oil, Gas & Consumable Fuels",
+        "Broad Industry": "Gas",
+        "Industry": "Trading - Gas",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Services",
+        "Sector": "Services",
+        "Broad Industry": "Transport Infrastructure",
+        "Industry": "Road AssetsToll, Annuity, Hybrid-Annuity",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Energy",
+        "Sector": "Oil, Gas & Consumable Fuels",
+        "Broad Industry": "Consumable Fuels",
+        "Industry": "Trading - Coal",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Utilities",
+        "Sector": "Power",
+        "Broad Industry": "Power",
+        "Industry": "Power - Transmission",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Utilities",
+        "Sector": "Utilities",
+        "Broad Industry": "Other Utilities",
+        "Industry": "Water Supply & Management",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Industrials",
+        "Sector": "Capital Goods",
+        "Broad Industry": "Agricultural, Commercial & Construction Vehicles",
+        "Industry": "Commercial Vehicles",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Energy",
+        "Sector": "Oil, Gas & Consumable Fuels",
+        "Broad Industry": "Gas",
+        "Industry": "LPG/CNG/PNG/LNG Supplier",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Consumer Durables",
+        "Broad Industry": "Consumer Durables",
+        "Industry": "Cycles",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Financial Services",
+        "Sector": "Financial Services",
+        "Broad Industry": "Banks",
+        "Industry": "Other Bank",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Financial Services",
+        "Sector": "Financial Services",
+        "Broad Industry": "Banks",
+        "Industry": "Private Sector Bank",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Financial Services",
+        "Sector": "Financial Services",
+        "Broad Industry": "Banks",
+        "Industry": "Public Sector Bank",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Services",
+        "Sector": "Services",
+        "Broad Industry": "Transport Services",
+        "Industry": "Transport Related Services",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Commodities",
+        "Sector": "Metals & Mining",
+        "Broad Industry": "Diversified Metals",
+        "Industry": "Diversified Metals",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Financial Services",
+        "Sector": "Financial Services",
+        "Broad Industry": "Capital Markets",
+        "Industry": "Exchange and Data Platform",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Financial Services",
+        "Sector": "Financial Services",
+        "Broad Industry": "Insurance",
+        "Industry": "Life Insurance",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Financial Services",
+        "Sector": "Financial Services",
+        "Broad Industry": "Capital Markets",
+        "Industry": "Ratings",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Consumer Durables",
+        "Broad Industry": "Consumer Durables",
+        "Industry": "Sanitary Ware",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Financial Services",
+        "Sector": "Financial Services",
+        "Broad Industry": "Finance",
+        "Industry": "Microfinance Institutions",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Industrials",
+        "Sector": "Capital Goods",
+        "Broad Industry": "Industrial Products",
+        "Industry": "Compressors, Pumps & Diesel Engines",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Fast Moving Consumer Goods",
+        "Sector": "Fast Moving Consumer Goods",
+        "Broad Industry": "Diversified FMCG",
+        "Industry": "Diversified FMCG",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Commodities",
+        "Sector": "Chemicals",
+        "Broad Industry": "Chemicals & Petrochemicals",
+        "Industry": "Printing Inks",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Services",
+        "Sector": "Services",
+        "Broad Industry": "Transport Infrastructure",
+        "Industry": "Airport & Airport services",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Services",
+        "Sector": "Services",
+        "Broad Industry": "Engineering Services",
+        "Industry": "Dredging",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Consumer Services",
+        "Broad Industry": "Retailing",
+        "Industry": "Pharmacy Retail",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Industrials",
+        "Sector": "Capital Goods",
+        "Broad Industry": "Agricultural, Commercial & Construction Vehicles",
+        "Industry": "Tractors",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Financial Services",
+        "Sector": "Financial Services",
+        "Broad Industry": "Insurance",
+        "Industry": "General Insurance",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Commodities",
+        "Sector": "Chemicals",
+        "Broad Industry": "Chemicals & Petrochemicals",
+        "Industry": "Carbon Black",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Automobile and Auto Components",
+        "Broad Industry": "Auto Components",
+        "Industry": "Trading - Auto components",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Industrials",
+        "Sector": "Capital Goods",
+        "Broad Industry": "Agricultural, Commercial & Construction Vehicles",
+        "Industry": "Dealers-Commercial Vehicles, Tractors, Construction Vehicles",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Industrials",
+        "Sector": "Capital Goods",
+        "Broad Industry": "Industrial Manufacturing",
+        "Industry": "Railway Wagons",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Consumer Services",
+        "Broad Industry": "Leisure Services",
+        "Industry": "Wellness",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Commodities",
+        "Sector": "Metals & Mining",
+        "Broad Industry": "Ferrous Metals",
+        "Industry": "Pig Iron",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Consumer Discretionary",
+        "Sector": "Consumer Durables",
+        "Broad Industry": "Consumer Durables",
+        "Industry": "Glass - Consumer",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Financial Services",
+        "Sector": "Financial Services",
+        "Broad Industry": "Insurance",
+        "Industry": "Insurance Distributors",
+        "Active": true
+    },
+    {
+        "Broad Sector": "Utilities",
+        "Sector": "Power",
+        "Broad Industry": "Power",
+        "Industry": "Power Trading",
+        "Active": true
+    }
+]
