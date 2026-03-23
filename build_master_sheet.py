@@ -5,9 +5,9 @@ import os
 import xlsxwriter
 
 # --- 1. FILE PATHS ---
-DS1_PATH = "F:\projects\screenerscraper\dataset1.csv"              # Market & Shareholding
-DS2_PATH = "F:\projects\screenerscraper\dataset2.csv"              # Technicals
-SCREENER_PATH = "F:\projects\screenerscraper\screenerscraped-2026-03-17_15-49.csv"  # The pipeline output
+DS1_PATH = "\dataset1.csv"              # Market & Shareholding
+DS2_PATH = "\dataset2.csv"              # Technicals
+SCREENER_PATH = "\screenerscraped-2026-03-17_15-49.csv"  # The pipeline output
 OUTPUT_PATH = "master_valuation_matrix.xlsx" # NOW XLSX
 ORPHAN_PATH = "orphaned_data.csv"
 

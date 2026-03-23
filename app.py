@@ -22,10 +22,10 @@ def load_path_config():
             pass
     # Default fallback guesses
     return {
-        "html_dir": r"F:\projects\screenerscraper\screenerscraper\screenerhtml",
-        "metrics_json": r"F:\projects\screenerscraper\screenerscraper\metrics.json",
-        "sectors_json": r"F:\projects\screenerscraper\screenerscraper\sectors.json",
-        "backend_dir": r"F:\projects\screenerscraper\screenerscraper"
+        "html_dir": r"\screenerscraper\screenerscraper\screenerhtml",
+        "metrics_json": r"\screenerscraper\screenerscraper\metrics.json",
+        "sectors_json": r"\screenerscraper\screenerscraper\sectors.json",
+        "backend_dir": r"\screenerscraper\screenerscraper"
     }
 
 paths = load_path_config()
